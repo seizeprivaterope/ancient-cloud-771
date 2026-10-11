@@ -130,4 +130,4 @@ Windows 10/11、macOS 12+ 且有 4 GB 内存即可 — 详见上方要求。
 | **License** | 基于 MIT 许可证共享 |
 | **Download** | the button in the Quick Start section |
 
-*更新于 2026-10-10 · 基于 MIT 许可证共享*
+*更新于 2026-10-11 · 基于 MIT 许可证共享*
